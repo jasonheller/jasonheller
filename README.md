@@ -13,7 +13,6 @@
 
 - ⚡ Fun fact **Cows can smell things that are up to six miles away.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
