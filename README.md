@@ -12,7 +12,7 @@
 - 👨‍💻 Website [https://sites.google.com/view/jason-dev/home](https://sites.google.com/view/jason-dev/home)
 
 - ⚡ Fun fact **Cows can smell things that are up to six miles away.**
-- 
+
 <p align="left">
 </p>
 
