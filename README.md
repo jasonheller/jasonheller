@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasonheller" alt="jasonheller" /></a> </p>
 
-- 🔭 I’m currently working on **Nothing worth to show**
+- 🔭 I’m currently working on an Image Manipulating Software
 
-- 🌱 I’m currently learning **Python, C++**
-
-- 👨‍💻 Website [https://sites.google.com/view/jason-dev/home](https://sites.google.com/view/jason-dev/home)
+- 🌱 I’m currently learning Python
 
 - ⚡ Fun fact **Cows can smell things that are up to six miles away.**
 
