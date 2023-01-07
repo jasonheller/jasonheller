@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasonheller" alt="jasonheller" /></a> </p>
 
-- 🔭 I’m currently working on an METAR Tool
+- 🔭 I’m currently working on an SQUAWK Generator using Electron
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Javascript / Electron.js
 
 - ⚡ Fun fact **Cows can smell things that are up to six miles away.**
 
