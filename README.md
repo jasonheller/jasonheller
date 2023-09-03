@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasonheller" alt="jasonheller" /></a> </p>
 
-- 🏫 ...learning to become an informatics assistant. 
+- 🏫 ITA Student. 
 
-- 🔭 I’m currently not working on anything
+- 🔭 I’m currently not working on anything.
 
-- 🌱 I’m currently learning Java & Git
+- 🌱 I’m currently learning 6502 Assembly.
 
 - ⚡ Fun fact **Cows can smell things that are up to six miles away.**
 
