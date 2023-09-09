@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasonheller" alt="jasonheller" /></a> </p>
 
-- 🏫 ITA Student. 
+- 🏫 ITA Student in Marburg, Germany. 
 
 - 🔭 I’m currently not working on anything.
 
