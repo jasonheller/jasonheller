@@ -7,9 +7,9 @@
 
 - 🏫 ITA Student in Marburg, Germany. 
 
-- 🔭 I’m currently not working on anything.
+- 🔭 I’m currently working on an *REDACTED* project
 
-- 🌱 I’m currently learning 6502 Assembly.
+- 🌱 I’m currently learning for my CCNA.
 
 - ⚡ Fun fact **Cows can smell things that are up to six miles away.**
 
