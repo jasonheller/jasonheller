@@ -5,12 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasonheller" alt="jasonheller" /></a> </p>
 
-- 🏫 ITA Student in Marburg, Germany. 
-
-- 🔭 I’m currently working on an *REDACTED* project
-
-- 🌱 Did my CCNA (Part 1) successfully!
-
 - ⚡ Fun fact **Cows can smell things that are up to six miles away.**
 
 <p align="left">
