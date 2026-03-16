@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jason</h1>
-<h3 align="center">A non-experienced 'developer' from germany, doing hobby photography and having a blast in gaming.</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jasonheller&label=Account%20Views&color=0eb46c&style=flat" alt="jasonheller" /> </p>
 
